@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-config-quick",
+  "version": "0.1.0",
+  "description": "Stylelint Quick Shareable Configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvatorePreviti/stylelint-config-quick.git"
+  },
+  "keywords": [
+    "stylelint",
+    "Quick"
+  ],
+  "author": "Salvatore Previti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SalvatorePreviti/stylelint-config-quick/issues"
+  },
+  "homepage": "https://github.com/SalvatorePreviti/stylelint-config-quick#readme",
+  "peerDependencies": {
+    "prettier": ">=1.14.0",
+    "stylelint": ">=9.4.0",
+    "stylelint-config-recommended": ">=2.1.0",
+    "stylelint-config-prettier": ">=3.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.14.0",
+    "tslib": "^1.9.3",
+    "stylelint": "^9.4.0",
+    "stylelint-config-recommended": "^2.1.0",
+    "stylelint-config-prettier": "^3.3.0"
+  }
+}
